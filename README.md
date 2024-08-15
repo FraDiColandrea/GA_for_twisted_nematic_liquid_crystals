@@ -2,7 +2,7 @@
 A genetic algorithm for the response of twisted nematic liquid crystals to an applied field
 
 By Alicia Sit and Francesco Di Colandrea of the University of Ottawa, 2024.
-See http://arxiv.org/abs/2403.00948 for more details. For the published manuscript see [Genetic algorithm for the response of arbitrarily twisted nematic liquid crystals to an applied field](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.054705).
+See http://arxiv.org/abs/2403.00948 for more details. For the published manuscript, refer to [Genetic algorithm for the response of arbitrarily twisted nematic liquid crystals to an applied field](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.054705).
 
 # FUNCTIONS
 GA.m : Genetic algorithm to numerically calculate integration parameter (beta) and maximum tilt angle (thetaM) for a given maximum twist angle and applied voltage.
